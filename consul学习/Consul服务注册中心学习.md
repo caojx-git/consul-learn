@@ -4,6 +4,7 @@
 
 视频教程：https://www.bilibili.com/video/BV1rp4y1n7Dk?p=2
 
+学习项目：https://github.com/caojx-git/consul-learn
 
 
 # Consul服务注册中心
